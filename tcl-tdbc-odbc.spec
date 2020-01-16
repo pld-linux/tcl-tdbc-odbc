@@ -1,12 +1,12 @@
 Summary:	TDBC driver to access databases via ODBC
 Summary(pl.UTF-8):	Sterownik TDBC służący do dostępu do baz danych poprzez ODBC
 Name:		tcl-tdbc-odbc
-Version:	1.1.0
+Version:	1.1.1
 Release:	1
 License:	Tcl (BSD-like)
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/tcl/tdbcodbc%{version}.tar.gz
-# Source0-md5:	e1facdcea5d54345f3e0a1a9019fb816
+# Source0-md5:	12a35dc03c85501fca24b7b9993ad494
 URL:		http://tdbc.tcl.tk/
 BuildRequires:	tcl-devel >= 8.6
 BuildRequires:	tcl-tdbc-devel >= %{version}
